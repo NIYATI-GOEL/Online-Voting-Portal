@@ -2,7 +2,7 @@
 
 name varchar(30),password varchar(30));
 
-insert into admin values ('niraj','ranjan');
+insert into admin values ('niyati','goel');
 
 
 
